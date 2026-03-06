@@ -1,0 +1,30 @@
+﻿  Course8,BankProject.cpp
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(201,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(221,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(241,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(266,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(348,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(351,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\StringLib.h(663,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course8,BankProject.cpp')
+  
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(143,27): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(208,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(473,37): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(587,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(632,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(637,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\M.S.I\source\repos\Course8,BankProject\Course8,BankProject.cpp(698,49): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Course8,BankProject.vcxproj -> C:\Users\M.S.I\source\repos\Course8,BankProject\x64\Debug\Course8,BankProject.exe
