@@ -978,7 +978,7 @@ void MainControlPanel(stUser &User)
         StringLib::SaveClientsDataToFile(FileOfClientData, vClientsData);
         system("cls");
     } while (Operation != enMainOptions::Exit);
-    HeaderOfSubScreens("Program Ends :-)");
+    HeaderOfSubScreens("Program Ends :-)");  
 }
 
 void Login()
@@ -1009,5 +1009,6 @@ void Login()
 int main()
 {
     Login();
+    system("pause>0");
     //cout << (16 & -1) << endl;
 }
